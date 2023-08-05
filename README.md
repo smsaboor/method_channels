@@ -2,7 +2,7 @@
 
 Flutter project to run Native code using platform channel.
 
-##Flutter Platform Channel:
+## Flutter Platform Channel:
 
 This application is an example which will showcase the MethodChannel which is used to communicate your Dart code 
 with the platform-specific code/api (native side like android/iOS/windows/linux) in bidirectional way.
